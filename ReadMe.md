@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on GCP cloud infrastructure such as Networking, GKE, Bigquery, GCP Landing zone.
+I'm currently working on Google Cloud Platform with a focus on cloud infrastructure, DevOps, GKE, BigQuery, Landing Zone architecture, and building AI‑driven automation/agents.
 
 
 ## 🌐 Socials:

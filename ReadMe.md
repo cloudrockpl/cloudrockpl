@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Google Cloud Platform with a focus on cloud infrastructure , design architecture, solving issues in GCP cloud.
+I work on cloud AI infrastructure with a focus on architecture design, platform reliability, and solving complex issues.
 
 
 ## 🌐 Socials:

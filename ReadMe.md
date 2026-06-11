@@ -1,5 +1,5 @@
 # 💫 About Me:
-I work on cloud AI infrastructure with a focus on architecture design, platform reliability, and solving complex issues.
+I work on cloud AI infrastructure with a focus on architecture design, Implementation, Optimization, platform reliability, and solving complex issues.
 
 
 ## 🌐 Socials:
